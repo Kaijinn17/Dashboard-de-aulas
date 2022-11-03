@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    background-repeat: no-repeat;
+    height: 674px;
+    margin: 0;
+    padding: 0;
+}
+
+.caixa2{
+left:35%;
+top: 30%; 
+position:absolute;
+width: 55%;
+}
+
+.imgestudante{
+    position: absolute;
+    width:35%;
+    margin-top: 18px;
+}
+
+.caixinha{
+    height:510px;
+    top: 28%; 
+    position:absolute; 
+    margin-top: -25px;
+}
+
+@media screen and (max-width: 768px){
+    body{
+        margin: 0;
+        padding: 0;
+    }
+
+	.imgestudante{
+        width: 500px;
+        
+    }
+    .caixa2{
+        left: 6%;
+        top: 0;
+        margin-top: 65%;
+        width: 90%;
+    }
+    .caixinha{
+        height:600px;
+        width: auto;
+        top: 28%; 
+        position:absolute;
+    }
+}
