@@ -30,6 +30,7 @@ width: 55%;
     body{
         margin: 0;
         padding: 0;
+        height: 700px;
     }
 
 	.imgestudante{
@@ -43,7 +44,7 @@ width: 55%;
         width: 90%;
     }
     .caixinha{
-        height:600px;
+        height:700px;
         width: auto;
         top: 28%; 
         position:absolute;
