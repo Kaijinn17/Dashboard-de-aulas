@@ -36,7 +36,7 @@
                 </li>
             </div>
             <div class="card-footer d-flex justify-content-center">
-                <a href="dashboard.html" class="btn btn-warning w-100">Ver Aulas</a>
+                <a href="dashboard.php" class="btn btn-warning w-100">Ver Aulas</a>
             </div>
         </div>
     </div>
