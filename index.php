@@ -47,7 +47,7 @@
         </div>
     </div>
 
-    <div class="rodape footer text-center w-100 bg-dark" style="height:100px;margin-top:60%;position:absolute;display:flex;justify-content:center;align-items:center;">
+    <div class="rodape footer text-center w-100 bg-dark" style="height:100px;margin-top:58%;position:absolute;display:flex;justify-content:center;align-items:center;">
   <span class="text-white">© 2022 - <?php echo date("Y") ?>, Inc</span>
   </div>
 
