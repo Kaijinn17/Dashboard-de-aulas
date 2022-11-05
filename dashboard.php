@@ -6,10 +6,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Home</title>
   <link rel="stylesheet" href="style.css">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  @media screen and (max-width: 768px) {
+    body {
+    height: 1800px;
+    }
+    .caixinha{
+      height: 600px;
+    }
+    .footer{
+      bottom: 0;
+    }
+  }
+</style>
 </head>
 
-<body style="position: relative;">
+<body style="position: relative;height:900px;">
 
   <nav class="navbar navbar-dark bg-dark fixed-top">
     <div class="container-fluid">
@@ -272,7 +285,7 @@
   </nav>
 
   <div class="caixinha container-fluid bg-warning">
-    <img class="imgestudante" src="images/estudantes.png" alt="">
+    <img class="imgestudante" src="images/estudantes.png" alt="" style="margin-top: 23px;">
 
     <div class="caixa2 card">
       <div class="card-header bg-secondary text-center">
@@ -300,6 +313,12 @@
     </div>
   </div>
 
+
+  <div class="rodape footer text-center w-100 bg-dark" style="height:100px;margin-top:60%;position:absolute;display:flex;justify-content:center;align-items:center;">
+  <span class="text-white">© 2022 - <?php echo date("Y") ?>, Inc</span>
+  </div>
+  <!-- Copyright -->
+</footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 

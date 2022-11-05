@@ -16,15 +16,17 @@ body {
 .imgestudante {
     position: absolute;
     width: 35%;
-    margin-top: 18px;
+    margin-top: 20px;
 }
 
 .caixinha {
-    height: 510px;
+    height: 530px;
     top: 28%;
     position: absolute;
     margin-top: -25px;
 }
+
+
 
 @media screen and (max-width: 768px) {
     body {
@@ -35,7 +37,6 @@ body {
 
     .imgestudante {
         width: 470px;
-
     }
 
     .caixa2 {
@@ -46,9 +47,12 @@ body {
     }
 
     .caixinha {
-        height: 700px;
+        height: 600px;
         width: auto;
         top: 28%;
         position: absolute;
+    }
+    .footer{
+        bottom: 0;
     }
 }

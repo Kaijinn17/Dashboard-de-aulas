@@ -7,12 +7,19 @@
     <title>Home</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<style>
+    @media screen and (max-width: 768px) {
+    .footer{
+      bottom: 0;
+    }
+}
+</style>
 </head>
 
-<body style="position: relative;">
+<body style="position: relative; height:800px;">
 
     <div class="d-flex justify-content-center">
-        <div class="card w-50" style="top: 35%; position:absolute; margin-top: -25px;">
+        <div class="card w-50" style="top: 30%; position:absolute; margin-top: -25px;">
             <div class="card-header bg-secondary text-center">
                 <strong class="text-white">Seja Bem-Vindo ao Dashboard de Aulas do Cetep</strong>
             </div>
@@ -39,6 +46,10 @@
             </div>
         </div>
     </div>
+
+    <div class="rodape footer text-center w-100 bg-dark" style="height:100px;margin-top:60%;position:absolute;display:flex;justify-content:center;align-items:center;">
+  <span class="text-white">© 2022 - <?php echo date("Y") ?>, Inc</span>
+  </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
