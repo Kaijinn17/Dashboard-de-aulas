@@ -64,6 +64,7 @@
               </ul>
             </li>
           </ul>
+          <br><br>
           <!-----------------------------DIVISAO DOS CURSOS----------------------------------->
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
@@ -103,6 +104,7 @@
               </ul>
             </li>
           </ul>
+          <br><br>
           <!-----------------------------DIVISAO DOS CURSOS----------------------------------->
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
@@ -142,6 +144,7 @@
               </ul>
             </li>
           </ul>
+          <br><br>
           <!-----------------------------DIVISAO DOS CURSOS----------------------------------->
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
@@ -181,6 +184,7 @@
               </ul>
             </li>
           </ul>
+          <br><br>
           <!-----------------------------DIVISAO DOS CURSOS----------------------------------->
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
@@ -220,6 +224,7 @@
               </ul>
             </li>
           </ul>
+          <br><br>
           <!-----------------------------DIVISAO DOS CURSOS----------------------------------->
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
