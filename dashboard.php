@@ -68,7 +68,7 @@
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Curso 2
+                Técnico Em Análises Clínicas
               </a>
               <ul class="dropdown-menu dropdown-menu-dark">
                 <li>
@@ -107,7 +107,7 @@
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Curso 3
+                Técnico Em Edificações
               </a>
               <ul class="dropdown-menu dropdown-menu-dark">
                 <li>
@@ -146,7 +146,7 @@
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Curso 4
+                Técnico Em Nutrição e Dietética
               </a>
               <ul class="dropdown-menu dropdown-menu-dark">
                 <li>
@@ -185,7 +185,46 @@
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Curso 5
+                Técnico Em Meio Ambiente
+              </a>
+              <ul class="dropdown-menu dropdown-menu-dark">
+                <li>
+                  <p class="dropdown-item text-white" href="#">Matutino</p>
+                </li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">1TIM</a></li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">2TIM</a></li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">3TIM</a></li>
+                <hr class="dropdown-divider">
+                <li>
+                  <p class="dropdown-item text-white" href="#">Vespertino</p>
+                </li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">1TIV</a></li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">2TIV</a></li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">3TIV</a></li>
+                <hr class="dropdown-divider">
+                <li>
+                  <p class="dropdown-item text-white" href="#">Noturno</p>
+                </li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">1TIN</a></li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">2TIN</a></li>
+                <hr class="dropdown-divider">
+                <li><a class="dropdown-item" href="#">3TIN</a></li>
+              </ul>
+            </li>
+          </ul>
+          <!-----------------------------DIVISAO DOS CURSOS----------------------------------->
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Técnico Em Administração
               </a>
               <ul class="dropdown-menu dropdown-menu-dark">
                 <li>
